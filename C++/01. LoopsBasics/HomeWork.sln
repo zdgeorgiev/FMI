@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. IsThePointInTheCircle", "01. IsThePointInTheCicle\01. HomeWork.vcxproj", "{7511B50A-E3DD-45E7-A6CD-0CAA740B5AAB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. PreviousDate", "02. PreviousDate\02. NextDate.vcxproj", "{C20D7AEB-9D33-4FD4-94A3-6EEED70E7D69}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. AutomorphicNumbers", "03. AutomorphicNumbers\03. AvtomorfNumbers.vcxproj", "{9674D158-74BC-4E60-B780-A0674B2BE570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7511B50A-E3DD-45E7-A6CD-0CAA740B5AAB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7511B50A-E3DD-45E7-A6CD-0CAA740B5AAB}.Debug|Win32.Build.0 = Debug|Win32
+		{7511B50A-E3DD-45E7-A6CD-0CAA740B5AAB}.Release|Win32.ActiveCfg = Release|Win32
+		{7511B50A-E3DD-45E7-A6CD-0CAA740B5AAB}.Release|Win32.Build.0 = Release|Win32
+		{C20D7AEB-9D33-4FD4-94A3-6EEED70E7D69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C20D7AEB-9D33-4FD4-94A3-6EEED70E7D69}.Debug|Win32.Build.0 = Debug|Win32
+		{C20D7AEB-9D33-4FD4-94A3-6EEED70E7D69}.Release|Win32.ActiveCfg = Release|Win32
+		{C20D7AEB-9D33-4FD4-94A3-6EEED70E7D69}.Release|Win32.Build.0 = Release|Win32
+		{9674D158-74BC-4E60-B780-A0674B2BE570}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9674D158-74BC-4E60-B780-A0674B2BE570}.Debug|Win32.Build.0 = Debug|Win32
+		{9674D158-74BC-4E60-B780-A0674B2BE570}.Release|Win32.ActiveCfg = Release|Win32
+		{9674D158-74BC-4E60-B780-A0674B2BE570}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
