@@ -97,5 +97,11 @@ int main()
 		printf("\n");
 	}
 
+	for (int i = 0; i < layer; i++)
+	{
+		delete[] pascalPyramid[i];
+	}
+	delete[] pascalPyramid;
+
 	return 0;
 }
