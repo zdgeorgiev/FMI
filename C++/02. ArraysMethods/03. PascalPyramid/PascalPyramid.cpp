@@ -7,11 +7,27 @@ int main()
 	int layer;
 	cin >> layer;
 
-	int** pascalPyramid = new int*[layer];
-
-	for (int i = 0; i < layer; i++)
+	int** pascalPyramid = new (nothrow)int*[layer];
+	if (!pascalPyramid)
 	{
-		pascalPyramid[i] = new int[layer + 1];
+		delete[] pascalPyramid;
+		return 1;
+	}
+	else
+	{
+		for (int i = 0; i < layer; i++)
+		{
+			pascalPyramid[i] = new int[layer + 1];
+			if (!pascalPyramid[i])
+			{
+				for (int j = 0; j < i; j++)
+				{
+					delete[] pascalPyramid[j];
+				}
+				delete[] pascalPyramid;
+				return 1;
+			}
+		}
 	}
 
 	int rows = layer;
