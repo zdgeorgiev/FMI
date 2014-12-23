@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. LongestSequenceInArray", "02. LongestSequenceInArray\02. LongestSequenceInArray.vcxproj", "{82CE3EAF-A0E3-4D47-A7CA-E9B19197CA29}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. SpiralMatrix", "03. SpiralMatrix\03. SpiralMatrix.vcxproj", "{08E1E81E-1F2E-493A-A433-EE2BFC987743}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. AverageSum", "01. AverageSum\ArraysPointers.vcxproj", "{AFE734FA-D21A-489C-B233-8FD8E12AC37B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82CE3EAF-A0E3-4D47-A7CA-E9B19197CA29}.Debug|Win32.ActiveCfg = Debug|Win32
+		{82CE3EAF-A0E3-4D47-A7CA-E9B19197CA29}.Debug|Win32.Build.0 = Debug|Win32
+		{82CE3EAF-A0E3-4D47-A7CA-E9B19197CA29}.Release|Win32.ActiveCfg = Release|Win32
+		{82CE3EAF-A0E3-4D47-A7CA-E9B19197CA29}.Release|Win32.Build.0 = Release|Win32
+		{08E1E81E-1F2E-493A-A433-EE2BFC987743}.Debug|Win32.ActiveCfg = Debug|Win32
+		{08E1E81E-1F2E-493A-A433-EE2BFC987743}.Debug|Win32.Build.0 = Debug|Win32
+		{08E1E81E-1F2E-493A-A433-EE2BFC987743}.Release|Win32.ActiveCfg = Release|Win32
+		{08E1E81E-1F2E-493A-A433-EE2BFC987743}.Release|Win32.Build.0 = Release|Win32
+		{AFE734FA-D21A-489C-B233-8FD8E12AC37B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AFE734FA-D21A-489C-B233-8FD8E12AC37B}.Debug|Win32.Build.0 = Debug|Win32
+		{AFE734FA-D21A-489C-B233-8FD8E12AC37B}.Release|Win32.ActiveCfg = Release|Win32
+		{AFE734FA-D21A-489C-B233-8FD8E12AC37B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
