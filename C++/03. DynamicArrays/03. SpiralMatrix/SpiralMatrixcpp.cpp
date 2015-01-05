@@ -13,17 +13,16 @@ int main()
 		return 0;
 	}
 
-	int** matrix = new int*[n];
+	int** matrix = new (nothrow)int*[n];
 	if (!matrix)
 	{
-		delete[] matrix;
 		return 1;
 	}
 	else
 	{
 		for (int i = 0; i < n; i++)
 		{
-			matrix[i] = new int[n];
+			matrix[i] = new (nothrow)int[n];
 			if (!matrix[i])
 			{
 				for (int j = 0; j < i; j++)
