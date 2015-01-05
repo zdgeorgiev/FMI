@@ -10,14 +10,13 @@ int main()
 	int** pascalPyramid = new (nothrow)int*[layer];
 	if (!pascalPyramid)
 	{
-		delete[] pascalPyramid;
 		return 1;
 	}
 	else
 	{
 		for (int i = 0; i < layer; i++)
 		{
-			pascalPyramid[i] = new int[layer + 1];
+			pascalPyramid[i] = new (nothrow)int[layer + 1];
 			if (!pascalPyramid[i])
 			{
 				for (int j = 0; j < i; j++)
