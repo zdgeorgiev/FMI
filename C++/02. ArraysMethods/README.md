@@ -38,6 +38,6 @@
 
 <strong>Вход: 3</strong><br>
 <strong>Изход:</strong><br>
-1
-2 2
+1<br>
+2 2<br>
 1 2 1<br>
