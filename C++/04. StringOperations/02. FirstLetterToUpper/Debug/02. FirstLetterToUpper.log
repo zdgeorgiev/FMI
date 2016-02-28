@@ -1,0 +1,14 @@
+﻿Build started 1/5/2015 2:14:17 AM.
+     1>Project "D:\Programming\Projects\FMI\C++\04. StringOperations\02. FirstLetterToUpper\02. FirstLetterToUpper.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Visual Studio 2013 Ultimate\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FirstLetterToUpper.cpp
+         FirstLetterToUpper.cpp
+     1>d:\programming\projects\fmi\c++\04. stringoperations\02. firstlettertoupper\firstlettertoupper.cpp(144): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Visual Studio 2013 Ultimate\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programming\Projects\FMI\C++\04. StringOperations\Debug\02. FirstLetterToUpper.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Programming\Projects\FMI\C++\04. StringOperations\Debug\02. FirstLetterToUpper.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programming\Projects\FMI\C++\04. StringOperations\Debug\02. FirstLetterToUpper.lib" /MACHINE:X86 Debug\FirstLetterToUpper.obj
+         02. FirstLetterToUpper.vcxproj -> D:\Programming\Projects\FMI\C++\04. StringOperations\Debug\02. FirstLetterToUpper.exe
+     1>Done Building Project "D:\Programming\Projects\FMI\C++\04. StringOperations\02. FirstLetterToUpper\02. FirstLetterToUpper.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.65

@@ -1,0 +1,13 @@
+﻿Build started 1/20/2015 8:47:32 PM.
+     1>Project "D:\Programming\Projects\FMI\C++\05. Recursion\02. ArrayEvenElements\02. ArrayEvenElements.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Visual Studio 2013 Ultimate\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ArrayEvenElements.cpp
+         ArrayEvenElements.cpp
+     1>d:\programming\projects\fmi\c++\05. recursion\02. arrayevenelements\arrayevenelements.cpp(12): error C3892: 'to' : you cannot assign to a variable that is const
+     1>d:\programming\projects\fmi\c++\05. recursion\02. arrayevenelements\arrayevenelements.cpp(29): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\programming\projects\fmi\c++\05. recursion\02. arrayevenelements\arrayevenelements.cpp(38): warning C4018: '<' : signed/unsigned mismatch
+     1>Done Building Project "D:\Programming\Projects\FMI\C++\05. Recursion\02. ArrayEvenElements\02. ArrayEvenElements.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.34

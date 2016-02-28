@@ -1,0 +1,23 @@
+﻿Build started 1/7/2015 11:52:35 PM.
+     1>Project "D:\Programming\Projects\FMI\C++\04. StringOperations\03. Dictionary\03. Dictionary.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Visual Studio 2013 Ultimate\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Dictionary.cpp
+         Dictionary.cpp
+     1>d:\programming\projects\fmi\c++\04. stringoperations\03. dictionary\dictionary.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\programming\projects\fmi\c++\04. stringoperations\03. dictionary\dictionary.cpp(30): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\programming\projects\fmi\c++\04. stringoperations\03. dictionary\dictionary.cpp(61): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\visual studio 2013 ultimate\vc\include\string.h(204) : see declaration of 'strtok'
+     1>d:\programming\projects\fmi\c++\04. stringoperations\03. dictionary\dictionary.cpp(74): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\programming\projects\fmi\c++\04. stringoperations\03. dictionary\dictionary.cpp(79): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\programming\projects\fmi\c++\04. stringoperations\03. dictionary\dictionary.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\programming\projects\fmi\c++\04. stringoperations\03. dictionary\dictionary.cpp(103): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\visual studio 2013 ultimate\vc\include\string.h(204) : see declaration of 'strtok'
+     1>d:\programming\projects\fmi\c++\04. stringoperations\03. dictionary\dictionary.cpp(110): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Visual Studio 2013 Ultimate\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programming\Projects\FMI\C++\04. StringOperations\Debug\03. Dictionary.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Programming\Projects\FMI\C++\04. StringOperations\Debug\03. Dictionary.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programming\Projects\FMI\C++\04. StringOperations\Debug\03. Dictionary.lib" /MACHINE:X86 Debug\Dictionary.obj
+         03. Dictionary.vcxproj -> D:\Programming\Projects\FMI\C++\04. StringOperations\Debug\03. Dictionary.exe
+     1>Done Building Project "D:\Programming\Projects\FMI\C++\04. StringOperations\03. Dictionary\03. Dictionary.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.67
