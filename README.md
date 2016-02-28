@@ -1,3 +1,4 @@
-# FMI
+FMI
+===
 
-Programming projects and homeworks from FMI (Season 2015-2019)
+Homeworks and projects durning education in FMI
