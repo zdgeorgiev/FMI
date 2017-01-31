@@ -25,7 +25,7 @@ typedef unsigned long long uint_64;
 
 // This class is optimized for the current homework task and it is not generic implementation.
 // This class only works with 64 bit non-negative integers, and uses open adressing
-// Some methods like remove, etc which this task isnt using, are not implemented also isnt not handling re-sizing.
+// Some methods like remove, etc which this task arent used, are also not implemented also isnt not handling re-sizing.
 class HashSet
 {
 private:
