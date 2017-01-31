@@ -97,7 +97,7 @@ public:
 		{
 			// If the key already is added
 			if (data[hash] == n)
-				break;
+				return;
 
 			hash = (hash + PRIME_FACTOR) % capacity;
 		}
